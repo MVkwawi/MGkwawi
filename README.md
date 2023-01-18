@@ -4,7 +4,7 @@ I'm gald to see you here!
 <br>
 
 - 🌱 I’m currently learning JavaScript, HTML, and CSS.
-- 📫 How to reach me: magdalene_vladimirov@abv.bg
+
 <br>
 <br>
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MVkwawi&theme=tokyonight&layout=compact"/></p>
